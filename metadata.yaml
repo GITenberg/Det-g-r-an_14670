@@ -1,0 +1,30 @@
+_repo: Det-g-r-an_14670
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Almqvist, C. J. L. (Carl Jonas Love)
+    aliases:
+    - Almquist, Carl Jonas Love
+    - Almqvist, Carl Jonas Love
+    birthdate: 1793
+    deathdate: 1866
+    gutenberg_agent_id: '5622'
+    url: http://www.gutenberg.org/2009/agents/5622
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Jonas_Love_Almqvist
+description: ''
+gutenberg_issued: '2005-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14670'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish literature'
+title: Det går an
+url: http://www.gutenberg.org/ebooks/14670
